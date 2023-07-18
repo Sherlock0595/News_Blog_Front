@@ -81,7 +81,7 @@ export const Post = ({
             </li>
             <li>
               <CommentIcon />
-              <span>{commentsCount}</span>
+              <span>{commentsCount}</span> 
             </li>
           </ul>
         </div>
